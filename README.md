@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there, I'm [Yash!](https://yashsalunke.github.io) 👋
+### Hi there, I'm [Paresh!]() 👋
 
 <a href="https://github.com/yashsalunke">
   <img align="left" alt="Yash Salunke" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
