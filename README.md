@@ -32,12 +32,12 @@
 
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PareshBagul&repo=DBATU University Notes Website&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PareshBagul&repo=LGMVIP-Web&theme=radical" />
 </a>
 
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=MySocialPlatform&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PareshBagul&repo=OIBSIP&theme=radical" />
 </a>
 
 
