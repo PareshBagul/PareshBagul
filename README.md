@@ -40,13 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PareshBagul&repo=OIBSIP&theme=radical" />
 </a>
 
-
-
-<a href="">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=MapMitra&theme=radical" />
-</a>
-
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PareshBagul&repo=javaScript_Project&theme=radical" />
