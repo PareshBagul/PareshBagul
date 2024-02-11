@@ -6,16 +6,13 @@
 <br />
 
 - 🔭 I’m currently working on my project [FitFusion](https://github.com/PareshBagul/FitFusion)
-- 💬 Ask me about anything [here](<a href="mailto:bagulparesh74@gmail.com, ? &subject=Fit Fusion">)
-
-
 
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsalunke&theme=radical&show_icons=true&hide=glsl,python"/>
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsalunke&show_icons=true&theme=radical&line_height=27&v=5" alt="Yash's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pareshbagul&show_icons=true&theme=radical&line_height=27&v=5" alt="Paresh's github stats" />
 </a>
 
 <a href="">
