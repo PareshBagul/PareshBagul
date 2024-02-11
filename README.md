@@ -9,7 +9,7 @@
 
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsalunke&theme=radical&show_icons=true&hide=glsl,python"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareshbagul&theme=radical&show_icons=true&hide=glsl,python"/>
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pareshbagul&show_icons=true&theme=radical&line_height=27&v=5" alt="Paresh's github stats" />
